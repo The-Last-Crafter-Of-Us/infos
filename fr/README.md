@@ -7,3 +7,10 @@ De plus, de nombreuses fonctionnalités vont être développés par nos soins po
 3. Mécaniques customs lors de certains events
 4. Mécaniques modifiant la difficulté du jeu en temps réel
 
+## Todos
+*Pour voir le cahier des charges précis, voir le README de chaque repository*
+- [ ] Port de Nohtis Apohcalyps
+- [ ] Mod d'économie (remplace AdminShop)
+- [ ] Mod de shop (remplace AdminShop)
+- [ ] Mod custom pour les events de TWTEAL (The War That Ended All Wars)
+- [ ] Mod custom pour la difficulté du jeu

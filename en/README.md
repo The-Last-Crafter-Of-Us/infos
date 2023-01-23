@@ -6,3 +6,11 @@ In addition, many features will be developed by us to improve the experience, su
 2. Spawn mechanics
 3. Custom mechanics for some events
 4. Mechanics modifying the difficulty of the game in real time
+
+## To-dos
+*To see the precise specifications, see the README of each repository*
+- [ ] Port of Nohtis Apohcalyps
+- [ ] Economy mod (replace AdminShop)
+- [ ] Shop mod (replace AdminShop)
+- [ ] Custom mod for the events of TWTEAL (The War That Ended All Wars)
+- [ ] Custom mod for the difficulty
